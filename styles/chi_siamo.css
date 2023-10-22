@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: rgba(1,4,9,255);
+}
+
+#torna_home {
+    position: fixed;
+    margin-top: 20px;
+    margin-left: 10px;
+    height: 3%;
+    width: 6.5%;
+    background-color: rgb(131, 0, 0);
+    border-radius: 5px;
+    border: none;
+    font-family: 'Poppins', sans-serif;
+    cursor: pointer;
+    color: white;
+}
+
+#torna_home:hover {
+    background-color: rgb(104, 0, 0);
+    height: 3.1%;
+    width: 6.6%;
+}
+
+.chi_siamo {
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    margin-left: 45%;
+    margin-top: 2%;
+}
+
+.contenuto {
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 20px;
+    font-size: 15px;
+    margin-left: 10px;
+}
+
+.logo {
+    width: 500px;
+    margin-left: 37%;
+    margin-top: 3%;
+}
