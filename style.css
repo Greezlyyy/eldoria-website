@@ -92,8 +92,8 @@ body {
     margin-top:15px;
 }
 
-@media screen and (max-width:400px) {
+@media screen and (max-width:500px) {
     .navbar ul {
-        margin-left: -5px;
+        margin-left: 13%;
     }
 }
